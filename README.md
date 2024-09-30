@@ -52,10 +52,6 @@ node index.js
 }
 ```
 
-You should receive a success message if the user is registered successfully.# shaik-SmokeTrees
-# shaik-SmokeTrees
-# smoketrees
-# smoketrees
 
 ### 7. **Submission**
 
