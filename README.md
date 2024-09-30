@@ -40,18 +40,6 @@ cd smoketrees_backend
 node index.js
 ```
 
-## In a New Terminal, Start the React Development Server:
-```bash
-cd frontend
-npm start
-```
-
-Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to see the application.
-
-Use the form to register users. The data will be sent to the backend and stored in the SQLite database.
-
----
-
 ## To Test the API Independently:
 
 1. Use Postman or any API testing tool.
